@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x868f4aE4bb21C5dB404440B74Ff8683AC721A637",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x868f4ae4bb21c5db404440b74ff8683ac721a637",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EUUUUUUC",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nic-meta-mfnp3xgzjl",
+  "SHOW_BACKGROUND": true
+}
